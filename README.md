@@ -50,8 +50,6 @@ ii. Repeat for each step of episode:
 
 ## SARSA LEARNING FUNCTION
 ~~~
-#NAME : NAVEEN KUMAR P
-#REG NO : 212222230092
 def sarsa(env,
           gamma=1.0,
           init_alpha=0.5,
@@ -90,19 +88,16 @@ def sarsa(env,
 
 ## OUTPUT:
 ### Optimal Policy:
-![image](https://github.com/srikarthickeyanganapathy/sarsa-learning/assets/119393842/27d1a2a6-6ac6-4a32-baaf-1d0b6478c86d)
-
+![280930168-b1f0e2fd-3016-4de5-b624-ee742c65d042](https://github.com/charansai0/sarsa-learning/assets/94296221/43318948-a2a1-48f6-877b-7475305234a9)
 ### First Visit Monte Carlo Method:
-![image](https://github.com/srikarthickeyanganapathy/sarsa-learning/assets/119393842/71b40e27-c9ea-4245-b780-c13d69da6ccb)
-
+![280930318-839d4ba3-c368-4a6a-884a-7454e439b8ca](https://github.com/charansai0/sarsa-learning/assets/94296221/9c2a0059-495f-411f-b85b-eb5a10675b1d)
 ### SARSA Learning Algorithm:
-![image](https://github.com/srikarthickeyanganapathy/sarsa-learning/assets/119393842/5d944d2a-0efc-4b82-88e1-0bcd080dda69)
-
+![280930423-c2793936-d56c-41b7-94d7-11c9493ac24f](https://github.com/charansai0/sarsa-learning/assets/94296221/39d76c94-21c6-4f09-87d1-69d970873888)
 ### Plot for State Value Function - Monte Carlo:
-![download](https://github.com/srikarthickeyanganapathy/sarsa-learning/assets/119393842/a4cbce5d-236b-4ce1-9ba5-f2dc3638f8ee)
-
+![Screenshot 2024-05-07 185731](https://github.com/NavinkumarJ/sarsa-learning/assets/115530758/96604aa8-ecb4-4d14-bd4c-054dc511e6aa)
 ### Plot for State Value Function - SARSA Learning:
-![download](https://github.com/srikarthickeyanganapathy/sarsa-learning/assets/119393842/ea097274-4a55-4da1-918b-caf51ba0cea3)
+![Screenshot 2024-05-07 185848](https://github.com/NavinkumarJ/sarsa-learning/assets/115530758/76bb2402-4690-4b8c-952c-f69b06d2b4c7)
+
 
 ## RESULT:
 Thus, the implementation of SARSA learning algorithm was implemented successfully.
